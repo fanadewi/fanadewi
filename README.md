@@ -1,4 +1,4 @@
-### Hi there, I'm ✨ _Fitri Ana Dewi_ ✨ - aka [Ana](https://about.me/fanadewi) <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm ✨ _Fitri Ana Dewi_ ✨ - aka [Ana](https://about.me/fanadewi)
 
 ## I'm a Long life student and a Software Engineer.
 
